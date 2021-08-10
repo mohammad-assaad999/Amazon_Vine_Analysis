@@ -5,13 +5,11 @@ In this project, I have had access to approximately 50 datasets. Each one contai
 
 ## Results
  - How many Vine reviews and non-Vine reviews were there?
- 
+  - After creating all the needed functions to do the calculations, we can see that non_vine reviews exceed the Vine reviews by more than 100 times. 
 
-After creating all the needed functions to do the calculations, we can see that non_vine reviews exceed the Vine reviews by more than 100 times. 
+  - ![image](https://user-images.githubusercontent.com/80184581/128790748-ee6d1297-f175-4f6a-93a1-96bbfd3e13e8.png)
 
-![image](https://user-images.githubusercontent.com/80184581/128790748-ee6d1297-f175-4f6a-93a1-96bbfd3e13e8.png)
-
-This explains that the company was very selective in choosing the best customers to express their honest feedback on its products. 
+  - This explains that the company was very selective in choosing the best customers to express their honest feedback on its products. 
 
  - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? 
 From the previous calculated data, I was able to use the count() function with the filter() function to get the number of the reviews which were 5 stars as we see in the following image. 
