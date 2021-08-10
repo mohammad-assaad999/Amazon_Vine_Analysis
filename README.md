@@ -12,7 +12,7 @@ In this project, I have had access to approximately 50 datasets. Each one contai
  - **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
 From the previous calculated data, I was able to use the count() function with the filter() function to get the number of the reviews which were 5 stars as we see in the following image. Here we see the large difference between the customers who put 5 starts as a review whether they got paid or not. These numbers doesn't explain much, so I've calculated the percentage of Vine and non-Vine reviews to get more insights about the results.
 
-  ![image](https://user-images.githubusercontent.com/80184581/128790888-e96c6143-e477-438f-b327-9dfa4f0a75fa.png)
+   ![image](https://user-images.githubusercontent.com/80184581/128790888-e96c6143-e477-438f-b327-9dfa4f0a75fa.png)
 
  - **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 As a final step, we can say that this is the best part of the results because we are able now to understand the numbers and make effective conclusions. In the following image, we can see that 47.01% of the customers who didn't get paid to give their feedbacks put 5 stars for the products. However, 36.22% of paid reviews were 5 stars.
